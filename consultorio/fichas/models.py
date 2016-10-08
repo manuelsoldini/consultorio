@@ -5,26 +5,22 @@ from django.utils.safestring import mark_safe
 
 class ModelWithImage(models.Model):
     imagen = models.ImageField()
+    nombre = models.CharField(max_length=30)
 
     def image_tag(self):
         return mark_safe('<img src="/directory/%s" width="150" height="150" />' % (self.imagen))
 
     image_tag.short_description = 'Image'
 
-
-class Especie(ModelWithImage):
-    nombre = models.CharField(max_length=30)
-
     def __str__(self):
         return self.nombre
+
+class Especie(ModelWithImage):
+    pass
     
 
 class Raza(ModelWithImage):
-    nombre = models.CharField(max_length=30)
-    especie = models.ForeignKey(Especie)
-
-    def __unicode__(self):
-        return self.nombre
+    familia = models.ForeignKey(Especie)
 
 
 class Animal(models.Model):

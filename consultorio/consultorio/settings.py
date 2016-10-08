@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     'related_admin',
 ]
 
-MEDIA_ROOT = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
