@@ -1,0 +1,711 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es-ES">
+<head profile="http://gmpg.org/xfn/11">
+
+
+
+
+
+
+
+<script type="text/javascript">
+if(top.location!=this.location) top.location=this.location;
+</script>
+
+
+
+
+
+
+
+
+<meta name="google-site-verification" content="7n7Ync2fWYYQR6w2zpgkyzIn3uCw6AO87U86DfY7y3k" />
+
+<title></title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+ 
+<link rel="alternate" type="application/rss+xml" title="Informe Perros RSS Feed" href="http://informeperros.com/feed/" />
+<link rel="pingback" href="http://informeperros.com/xmlrpc.php" />
+<link rel="stylesheet" type="text/css" href="http://informeperros.com/wp-content/themes/cadabrapress/style.css" media="screen" />
+<link rel="stylesheet" href="http://informeperros.com/wp-content/themes/cadabrapress/css/dropdown.css" type="text/css" media="screen" />
+<link rel="stylesheet" type="text/css" href="http://informeperros.com/wp-content/themes/cadabrapress/custom.css" media="screen" />
+
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://informeperros.com/wp-content/themes/cadabrapress/css/ie6.css" /><![endif]-->
+<!--[if IE 7 ]><link rel="stylesheet" type="text/css" href="http://informeperros.com/wp-content/themes/cadabrapress/css/ie7.css" /><![endif]-->
+<link rel="shortcut icon" href="http://informeperros.com/wp-content/uploads/2012/03/huella-perro.png" type="image/x-icon" /> 
+ 
+	
+<style type='text/css'>
+					.no-break br {
+						display: none !important;
+					}
+			</style>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/informeperros.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-polls-css'  href='http://informeperros.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.69' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 8px;
+	line-height: 10px;
+	height: 10px;
+	background-image: url('http://informeperros.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='lightboxStyle-css'  href='http://informeperros.com/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.min.css?ver=2.7.2' type='text/css' media='screen' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://informeperros.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://informeperros.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<script charset="utf-8" type="text/javascript">var switchTo5x=false;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'wp.5bdaaad1-5ca9-4696-9858-a2ee73778742'});var st_type='wordpress3.3.1';</script><script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js?ver=4.2.2'></script>
+<script type="text/javascript">document.write('<style type="text/css">.tabber{display:none;}</style>');</script>	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<script type="text/javascript" src="http://informeperros.com/wp-content/themes/cadabrapress/js/jquery.tools.min.js"></script>
+<script type="text/javascript" src="http://informeperros.com/wp-content/themes/cadabrapress/js/jcarousel.js"></script>
+<script type="text/javascript" src="http://informeperros.com/wp-content/themes/cadabrapress/js/script.js"></script>
+<script type="text/javascript" src="http://informeperros.com/wp-content/themes/cadabrapress/js/dropdown.js"></script>
+<script type="text/javascript" src="http://informeperros.com/wp-content/themes/cadabrapress/js/tabber-minimized.js"></script>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29488587-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+
+
+
+
+
+
+</head>
+
+<body class="error404">
+
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ca_ES/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+
+
+
+<a name="top"></a>
+ 
+	<div id="page-wrap">
+
+		<div id="header">
+			<div id="topbar" class="dropdown">
+				<div class="rounded">
+					 
+					<ul id="menu-top" class="topmenu"><li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://informeperros.com/sample-page/">Acerca de</a></li>
+<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="http://informeperros.com/contacto/">Contacto</a></li>
+</ul> 					
+ 										<div class="user-bar">
+						<a href="#" class="login-link">Loguearse</a> 					</div>
+						
+					<div class="login-form">
+ 						<div class="close"><a href="#">Cerrar</a></div>
+						<form action="http://informeperros.com/wp-login.php" method="post">
+							<fieldset>
+								<div class="inputs">
+									<div class="input">
+ 										<input type="text" name="log" id="log" onblur="if (this.value == '') {this.value = 'Usuario';}" onfocus="if (this.value == 'Usuario') {this.value = '';}"   value="Usuario"   />
+									</div>
+									<div class="input">
+ 										<input type="password" name="pwd" id="pwd"  onblur="if (this.value == '') {this.value = 'Contraseña';}" onfocus="if (this.value == 'Contraseña') {this.value = '';}" value="Contraseña" />
+									</div>
+								</div>
+								<div class="button">
+									<input type="submit" name="submit" value="Log in" />
+									<input type="hidden" name="redirect_to" value="/wp-content/uploads/2012/05/Shar-Pei.jpg"/>
+								</div>
+								<div class="remember">
+									<input name="rememberme" id="rememberme" class="rememberme" type="checkbox" checked="checked" value="forever" />
+									<label for="rememberme"> Recordarme</label>
+									
+								</div>
+								<div class="lost"><a href="http://informeperros.com/wp-login.php?action=lostpassword">¿Has perdido tu contraseña?</a></div>
+							</fieldset>
+						</form>
+					</div>
+					
+											
+					 
+					<div class="clear"></div>
+				</div> <!-- /.rounded -->
+			
+			</div><!-- /top-bar -->
+			
+			
+			<div class="logo">
+				<a href="http://informeperros.com/">
+											<img src="http://informeperros.com/wp-content/uploads/2012/02/Logo-Informe-Perros.png" alt="Informe Perros" />
+
+					
+				</a>
+ 							</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div align=right>
+<div class="padder">
+<div id="cc-is5" class="ccslideshow" style="width:150px height:150px">
+<object width="150" height="150" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+<param value="transparent" name="wmode">
+<param value="http://informeperros.com/wp-content/plugins/creative-clans-slide-show/CCSlideShow.swf" name="movie">
+<param value="config=http://informeperros.com/wp-content/plugins/creative-clans-slide-show/xmlconfig5.xml&slides=http://informeperros.com/wp-content/plugins/creative-clans-slide-show/xmlslides5.xml&widget_number=5&scriptPath=http://informeperros.com/wp-content/plugins/creative-clans-slide-show/creativeclans-slideshow-proxy.php&dynamicXmlCreation=no" name="FlashVars">
+<embed width="150" height="150" flashvars="config=http://informeperros.com/wp-content/plugins/creative-clans-slide-show/xmlconfig5.xml&slides=http://informeperros.com/wp-content/plugins/creative-clans-slide-show/xmlslides5.xml&widget_number=5&scriptPath=http://informeperros.com/wp-content/plugins/creative-clans-slide-show/creativeclans-slideshow-proxy.php&dynamicXmlCreation=no" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" src="http://informeperros.com/wp-content/plugins/creative-clans-slide-show/CCSlideShow.swf">
+</object>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+			
+			<div class="adv">
+							</div>
+			
+		
+			<!-- Main Menu -->
+			<div id="menu" class="dropdown">
+				<div class="rounded">
+					<ul id="menu-navegacion" class="mainmenu"><li id="menu-item-23" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-23"><a href="http://informeperros.com/">Inicio</a></li>
+<li id="menu-item-42" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-42"><a href="http://informeperros.com/category/noticias/">Noticias</a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-44"><a href="http://informeperros.com/category/razas-de-perros/">Razas de perros</a>
+<ul class="sub-menu">
+	<li id="menu-item-292" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-292"><a href="http://informeperros.com/category/razas-de-perros/todos/">Todas</a></li>
+	<li id="menu-item-118" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-118"><a href="http://informeperros.com/category/razas-de-perros/grande/">Grandes</a></li>
+	<li id="menu-item-119" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-119"><a href="http://informeperros.com/category/razas-de-perros/mediano/">Medianos</a></li>
+	<li id="menu-item-47" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47"><a href="http://informeperros.com/category/razas-de-perros/pequeno/">Pequeños</a></li>
+</ul>
+</li>
+<li id="menu-item-37" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-37"><a href="http://informeperros.com/category/adiestrar/">Adiestrar</a>
+<ul class="sub-menu">
+	<li id="menu-item-542" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-542"><a href="http://informeperros.com/category/adiestrar/general-adiestrar/">General</a></li>
+	<li id="menu-item-178" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-178"><a href="http://informeperros.com/category/adiestrar/higiene/">Higiene</a></li>
+	<li id="menu-item-544" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-544"><a href="http://informeperros.com/category/adiestrar/sentarse-y-tumbarse/">Sentarse y tumbarse</a></li>
+	<li id="menu-item-543" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-543"><a href="http://informeperros.com/category/adiestrar/llamada/">llamada</a></li>
+</ul>
+</li>
+<li id="menu-item-38" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38"><a href="http://informeperros.com/category/comida-para-perros/">Comida</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-39"><a href="http://informeperros.com/category/fotos-de-perros/">Fotos de perros</a>
+<ul class="sub-menu">
+	<li id="menu-item-94" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94"><a href="http://informeperros.com/category/fotos-de-perros/videos-de-perros/">Videos de perros</a></li>
+	<li id="menu-item-715" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-715"><a href="http://informeperros.com/category/fotos-de-perros/fondos-de-pantalla/">Fondos de pantalla</a></li>
+</ul>
+</li>
+<li id="menu-item-43" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-43"><a href="http://informeperros.com/category/productos-accesorios/">Productos</a>
+<ul class="sub-menu">
+	<li id="menu-item-702" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-702"><a href="http://informeperros.com/category/productos-accesorios/seguros-para-perros/">Seguros para perros</a></li>
+</ul>
+</li>
+<li id="menu-item-46" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46"><a href="http://informeperros.com/category/salud/">Cuidados</a></li>
+<li id="menu-item-95" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-95"><a href="http://informeperros.com/category/adopcion-de-perros/">Adopción</a>
+<ul class="sub-menu">
+	<li id="menu-item-716" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-716"><a href="http://informeperros.com/category/adopcion-de-perros/adoptar-en-cataluna/">Adoptar en Cataluña</a></li>
+	<li id="menu-item-717" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-717"><a href="http://informeperros.com/category/adopcion-de-perros/adoptar-en-madrid/">Adoptar en Com. de Madrid</a></li>
+</ul>
+</li>
+</ul>					
+
+
+
+
+
+
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-4673932808803899";
+/* Menu Perros */
+google_ad_slot = "9374595772";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+
+
+
+		
+<table>
+<td>
+
+</td>
+</table> 
+				
+
+				</div>
+
+			</div><!-- /menu -->
+
+ 		</div><!-- /header -->
+ 	
+<div id="sidebar">
+ 
+	 
+	
+	<div id="text-2" class="widget widget_text"><h3>Bienvenidos a Informe Perros</h3><div class="padder">			<div class="textwidget"><center>
+<a href="http://www.informeperros.com">
+<img src="http://informeperros.com/wp-content/uploads/2012/02/Bienvenidos.png">
+</a></center>
+
+<p>
+</p>
+<p align="justify" <b>En Informe Perros no solo pretendemos darte toda la información que necesitas para cuidar y conocer mejor a los perros; También queremos formar una <b>agradable comunidad</b>, dónde <b>hablar y compartir</b> experiencias sobre nuestros perros.</b></p>
+
+<a href="https://twitter.com/InformePerros" class="twitter-follow-button" data-show-count="false" data-lang="es" data-size="large">Seguir a @InformePerros</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</div></div><div id="text-7" class="widget widget_text"><h3>Patrocinadores</h3><div class="padder">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-4673932808803899";
+/* Sidebar Perros */
+google_ad_slot = "0486843036";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</div></div><div id="text-4" class="widget widget_text"><h3>Únete al grupo de Facebook</h3><div class="padder">			<div class="textwidget"><div class="fb-like-box" data-href="https://www.facebook.com/pages/Informe-Perros/303493389715246" data-width="300" data-height="350" data-show-faces="true" data-stream="false" data-header="true"></div></div>
+		</div></div><div id="creativeclansslideshow-5" class="widget widget_creativeclans_slideshow"><h3>Adopta / Compra un perro</h3><div class="padder"><div id="cc-is5" class="ccslideshow" style="width:150px height:150px">
+    <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+            codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0"
+            width="150" height="150">
+      <param name="wmode" value="transparent" />
+      <param name="movie" value="http://informeperros.com/wp-content/plugins/creative-clans-slide-show/CCSlideShow.swf" />
+      <param name="FlashVars" value="config=http://informeperros.com/wp-content/plugins/creative-clans-slide-show/xmlconfig5.xml&amp;slides=http://informeperros.com/wp-content/plugins/creative-clans-slide-show/xmlslides5.xml&amp;widget_number=5&amp;scriptPath=http://informeperros.com/wp-content/plugins/creative-clans-slide-show/creativeclans-slideshow-proxy.php&amp;dynamicXmlCreation=no" />
+      <embed src="http://informeperros.com/wp-content/plugins/creative-clans-slide-show/CCSlideShow.swf" 
+             type="application/x-shockwave-flash"
+             pluginspage="http://www.macromedia.com/go/getflashplayer"
+             wmode="transparent"
+             width="150" height="150" 
+      			 FlashVars="config=http://informeperros.com/wp-content/plugins/creative-clans-slide-show/xmlconfig5.xml&amp;slides=http://informeperros.com/wp-content/plugins/creative-clans-slide-show/xmlslides5.xml&amp;widget_number=5&amp;scriptPath=http://informeperros.com/wp-content/plugins/creative-clans-slide-show/creativeclans-slideshow-proxy.php&amp;dynamicXmlCreation=no" />
+    </object>
+</div></div></div>
+			<div id="slipfire-tabber-3" class="widget tabbertabs"><div class="rounded tabber"><div id="wpzoom-recent-news" class="tabbertab recent_news"><h2 class="widgettitle">Recientes</h2>
+<ul>
+		<li>
+					<a href="http://informeperros.com/xaloc-en-adopcion-golden-retriever/" rel="bookmark" title="¡Xaloc en adopción! Golden Retriever"><img src="http://informeperros.com/wp-content/themes/cadabrapress/scripts/timthumb.php?src=http://informeperros.com/wp-content/uploads/2015/05/xaloc-adopcion.jpg&amp;w=45&amp;h=45&amp;zc=1" alt="¡Xaloc en adopción! Golden Retriever" /></a>		<span class="meta">mayo 18, 2015 at 22:09</span> 
+		<a href="http://informeperros.com/xaloc-en-adopcion-golden-retriever/" rel="bookmark" title="Permanent Link to ¡Xaloc en adopción! Golden Retriever">¡Xaloc en adopción! Golden Retriever</a> <span class="comm_bubble"><a href="http://informeperros.com/xaloc-en-adopcion-golden-retriever/#comments" class=" " >4</a></span>
+	</li>
+	 
+		<li>
+					<a href="http://informeperros.com/adoptar-a-sol-precioso-cocker-spaniel-ingles/" rel="bookmark" title="Adoptar a Sol, precioso Cocker Spaniel Inglés"><img src="http://informeperros.com/wp-content/themes/cadabrapress/scripts/timthumb.php?src=http://informeperros.com/wp-content/uploads/2012/07/adoptar-a-sol.jpg&amp;w=45&amp;h=45&amp;zc=1" alt="Adoptar a Sol, precioso Cocker Spaniel Inglés" /></a>		<span class="meta">julio 10, 2012 at 13:12</span> 
+		<a href="http://informeperros.com/adoptar-a-sol-precioso-cocker-spaniel-ingles/" rel="bookmark" title="Permanent Link to Adoptar a Sol, precioso Cocker Spaniel Inglés">Adoptar a Sol, precioso Cocker Spaniel Inglés</a> <span class="comm_bubble"><a href="http://informeperros.com/adoptar-a-sol-precioso-cocker-spaniel-ingles/#comments" class=" " >15</a></span>
+	</li>
+	 
+		<li>
+					<a href="http://informeperros.com/adopta-a-kira-boxer/" rel="bookmark" title="Adopta a Kira &#8211; Bóxer"><img src="http://informeperros.com/wp-content/themes/cadabrapress/scripts/timthumb.php?src=http://informeperros.com/wp-content/uploads/2012/07/adopta-perro-kira-boxer.jpg&amp;w=45&amp;h=45&amp;zc=1" alt="Adopta a Kira &#8211; Bóxer" /></a>		<span class="meta">julio 7, 2012 at 17:58</span> 
+		<a href="http://informeperros.com/adopta-a-kira-boxer/" rel="bookmark" title="Permanent Link to Adopta a Kira &#8211; Bóxer">Adopta a Kira &#8211; Bóxer</a> <span class="comm_bubble"><a href="http://informeperros.com/adopta-a-kira-boxer/#comments" class=" " >76</a></span>
+	</li>
+	 
+	</ul>
+  
+</div><div id="wpzoom-popular-posts" class="tabbertab zenko_popular"><h2 class="widgettitle">Popular</h2>
+<ul>
+<li><a href='http://informeperros.com/como-ensenar-a-un-perro-a-hacer-caca-y-pipi-donde-queremos/' rel='bookmark'>Como enseñar a un perro a hacer caca y pipí donde queremos</a><span class='comm_bubble'><a href='http://informeperros.com/como-ensenar-a-un-perro-a-hacer-caca-y-pipi-donde-queremos/'>9</a></span></li>
+<li><a href='http://informeperros.com/como-educar-a-un-perro/' rel='bookmark'>¿Como educar a un perro?</a><span class='comm_bubble'><a href='http://informeperros.com/como-educar-a-un-perro/'>7</a></span></li>
+<li><a href='http://informeperros.com/raza-pitbull-terrier-americano-informacion-y-fotos/' rel='bookmark'>Raza Pitbull Terrier Americano: Información y fotos</a><span class='comm_bubble'><a href='http://informeperros.com/raza-pitbull-terrier-americano-informacion-y-fotos/'>6</a></span></li>
+<li><a href='http://informeperros.com/adiestramiento-con-papel-para-que-un-perro-no-ensucie/' rel='bookmark'>Adiestramiento con papel para que un perro no ensucie</a><span class='comm_bubble'><a href='http://informeperros.com/adiestramiento-con-papel-para-que-un-perro-no-ensucie/'>4</a></span></li>
+</ul>
+</div><div id="recent-comments-2" class="tabbertab widget_recent_comments"><h2 class="widgettitle">Comentarios</h2>
+<ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='http://informeperros.com/' rel='external nofollow' class='url'>tania</a></span> en <a href="http://informeperros.com/ensenar-a-un-perro-a-pasear-sin-tirar-de-la-correa/#comment-189">Enseñar a un perro a pasear sin tirar de la correa</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://Web' rel='external nofollow' class='url'>luis foncho</a></span> en <a href="http://informeperros.com/raza-pitbull-terrier-americano-informacion-y-fotos/#comment-183">Raza Pitbull Terrier Americano: Información y fotos</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://Web' rel='external nofollow' class='url'>cesar</a></span> en <a href="http://informeperros.com/raza-pitbull-terrier-americano-informacion-y-fotos/#comment-175">Raza Pitbull Terrier Americano: Información y fotos</a></li><li class="recentcomments"><span class="comment-author-link">Informe Perros</span> en <a href="http://informeperros.com/como-ensenar-a-un-perro-para-que-haga-caso-de-tu-llamada/#comment-132">Como enseñar a un perro para que haga caso de tu llamada</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://Web' rel='external nofollow' class='url'>Nicol</a></span> en <a href="http://informeperros.com/raza-akita-informacion-y-fotos/#comment-131">Raza Akita: Información y fotos</a></li></ul></div>
+			</div></div><div id="polls-widget-2" class="widget widget_polls-widget"><h3>Encuesta</h3><div class="padder"><div id="polls-2" class="wp-polls">
+	<form id="polls_form_2" class="wp-polls-form" action="/index.php" method="post">
+		<p style="display: none;"><input type="hidden" id="poll_2_nonce" name="wp-polls-nonce" value="1099cbe06b" /></p>
+		<p style="display: none;"><input type="hidden" name="poll_id" value="2" /></p>
+		<p style="display: none;"><input type="hidden" id="poll_multiple_ans_2" name="poll_multiple_ans_2" value="1" /></p>
+		<p style="text-align: center;"><strong>¿Qué tema de gusta más?</strong></p><div id="polls-2-ans" class="wp-polls-ans"><ul class="wp-polls-ul">
+		<li><input type="checkbox" id="poll-answer-6" name="poll_2" value="6" /> <label for="poll-answer-6">Fotos de perros</label></li>
+		<li><input type="checkbox" id="poll-answer-7" name="poll_2" value="7" /> <label for="poll-answer-7">Video de perros</label></li>
+		<li><input type="checkbox" id="poll-answer-8" name="poll_2" value="8" /> <label for="poll-answer-8">Curiosidades</label></li>
+		<li><input type="checkbox" id="poll-answer-9" name="poll_2" value="9" /> <label for="poll-answer-9">Razas de perros</label></li>
+		<li><input type="checkbox" id="poll-answer-10" name="poll_2" value="10" /> <label for="poll-answer-10">Como adiestrar un perro</label></li>
+		<li><input type="checkbox" id="poll-answer-11" name="poll_2" value="11" /> <label for="poll-answer-11">Adopción de perros</label></li>
+		<li><input type="checkbox" id="poll-answer-12" name="poll_2" value="12" /> <label for="poll-answer-12">Productos/accesorios para perros</label></li>
+		<li><input type="checkbox" id="poll-answer-13" name="poll_2" value="13" /> <label for="poll-answer-13">Cuidados</label></li>
+		</ul><p style="text-align: center;"><input type="button" name="vote" value="   Vote   " class="Buttons" onclick="poll_vote(2);" /></p><p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(2); return false;" title="View Results Of This Poll">View Results</a></p></div>
+	</form>
+</div>
+<div id="polls-2-loading" class="wp-polls-loading"><img src="http://informeperros.com/wp-content/plugins/wp-polls/images/loading.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image" />&nbsp;Loading ...</div>
+</div></div><div id="categories-2" class="widget widget_categories"><h3>Categorías</h3><div class="padder">		<ul>
+	<li class="cat-item cat-item-9"><a href="http://informeperros.com/category/adiestrar/" >Adiestrar</a>
+<ul class='children'>
+	<li class="cat-item cat-item-145"><a href="http://informeperros.com/category/adiestrar/dar-la-pata/" >Dar la pata</a>
+</li>
+	<li class="cat-item cat-item-132"><a href="http://informeperros.com/category/adiestrar/general-adiestrar/" >General</a>
+</li>
+	<li class="cat-item cat-item-77"><a href="http://informeperros.com/category/adiestrar/higiene/" >Higiene</a>
+</li>
+	<li class="cat-item cat-item-115"><a href="http://informeperros.com/category/adiestrar/llamada/" >llamada</a>
+</li>
+	<li class="cat-item cat-item-189"><a href="http://informeperros.com/category/adiestrar/pasear/" >Pasear</a>
+</li>
+	<li class="cat-item cat-item-124"><a href="http://informeperros.com/category/adiestrar/sentarse-y-tumbarse/" >Sentarse y tumbarse</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://informeperros.com/category/adopcion-de-perros/" title="Adopción de perros.">Adopción</a>
+<ul class='children'>
+	<li class="cat-item cat-item-181"><a href="http://informeperros.com/category/adopcion-de-perros/adoptar-en-cataluna/" title="Adoptar un perro en Cataluña.
+Adopta un gos a Catalunya.">Adoptar en Cataluña</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://informeperros.com/category/fotos-de-perros/" >Fotos de perros</a>
+<ul class='children'>
+	<li class="cat-item cat-item-170"><a href="http://informeperros.com/category/fotos-de-perros/fondos-de-pantalla/" >Fondos de pantalla</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://informeperros.com/category/fotos-de-perros/videos-de-perros/" title="Videos divertidos e interesantes de perros">Videos de perros</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://informeperros.com/category/general/" >General</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://informeperros.com/category/noticias/" >Noticias</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://informeperros.com/category/productos-accesorios/" >Productos / accesorios</a>
+<ul class='children'>
+	<li class="cat-item cat-item-159"><a href="http://informeperros.com/category/productos-accesorios/seguros-para-perros/" >Seguros para perros</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://informeperros.com/category/razas-de-perros/" >Razas de perros</a>
+<ul class='children'>
+	<li class="cat-item cat-item-27"><a href="http://informeperros.com/category/razas-de-perros/grande/" >Grande</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="http://informeperros.com/category/razas-de-perros/mediano/" >Mediano</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://informeperros.com/category/razas-de-perros/pequeno/" >Pequeño</a>
+</li>
+	<li class="cat-item cat-item-109"><a href="http://informeperros.com/category/razas-de-perros/todos/" >Todos</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://informeperros.com/category/salud/" >Salud</a>
+</li>
+		</ul>
+</div></div><div id="linkcat-54" class="widget widget_links"><h3>Blogs amigos</h3><div class="padder">
+	<ul class='xoxo blogroll'>
+<li><a href="http://10lugares.com/" title="Lugares" target="_blank">Lugares</a></li>
+<li><a href="http://videosdemascotas.blogspot.com.es/" title="Videos de Mascotas" target="_blank">Videos de Mascotas</a></li>
+
+	</ul>
+</div></div>
+<div id="tag_cloud-2" class="widget widget_tag_cloud"><h3>Tags</h3><div class="padder"><div class="tagcloud"><a href='http://informeperros.com/tag/adiestramiento-activo/' class='tag-link-85' title='2 temas' style='font-size: 13.25pt;'>adiestramiento activo</a>
+<a href='http://informeperros.com/tag/adiestramiento-con-jaula/' class='tag-link-87' title='2 temas' style='font-size: 13.25pt;'>adiestramiento con jaula</a>
+<a href='http://informeperros.com/tag/adiestramiento-con-papel/' class='tag-link-74' title='2 temas' style='font-size: 13.25pt;'>adiestramiento con papel</a>
+<a href='http://informeperros.com/tag/adiestrar-perro/' class='tag-link-65' title='3 temas' style='font-size: 16.75pt;'>adiestrar perro</a>
+<a href='http://informeperros.com/tag/adoptar-perro/' class='tag-link-250' title='5 temas' style='font-size: 22pt;'>adoptar perro</a>
+<a href='http://informeperros.com/tag/adoptar-perro-cataluna/' class='tag-link-275' title='3 temas' style='font-size: 16.75pt;'>adoptar perro cataluña</a>
+<a href='http://informeperros.com/tag/adoptar-perro-en-cataluna/' class='tag-link-184' title='3 temas' style='font-size: 16.75pt;'>adoptar perro en cataluña</a>
+<a href='http://informeperros.com/tag/adoptar-perro-en-mataro/' class='tag-link-317' title='3 temas' style='font-size: 16.75pt;'>adoptar perro en mataró</a>
+<a href='http://informeperros.com/tag/adoptar-perro-mataro/' class='tag-link-273' title='2 temas' style='font-size: 13.25pt;'>adoptar perro mataro</a>
+<a href='http://informeperros.com/tag/affenpincher-compania/' class='tag-link-20' title='1 tema' style='font-size: 8pt;'>affenpincher compañia</a>
+<a href='http://informeperros.com/tag/affenpinscher/' class='tag-link-16' title='1 tema' style='font-size: 8pt;'>affenpinscher</a>
+<a href='http://informeperros.com/tag/akita/' class='tag-link-233' title='2 temas' style='font-size: 13.25pt;'>akita</a>
+<a href='http://informeperros.com/tag/beagle/' class='tag-link-41' title='1 tema' style='font-size: 8pt;'>beagle</a>
+<a href='http://informeperros.com/tag/caracter-affenpinscher/' class='tag-link-19' title='1 tema' style='font-size: 8pt;'>caracter affenpinscher</a>
+<a href='http://informeperros.com/tag/caracter-beagle/' class='tag-link-43' title='1 tema' style='font-size: 8pt;'>caracter beagle</a>
+<a href='http://informeperros.com/tag/caracteristicas-pitbull/' class='tag-link-30' title='1 tema' style='font-size: 8pt;'>caracteristicas pitbull</a>
+<a href='http://informeperros.com/tag/color-pitbull/' class='tag-link-33' title='1 tema' style='font-size: 8pt;'>color pitbull</a>
+<a href='http://informeperros.com/tag/como-adiestrar-beagle/' class='tag-link-44' title='1 tema' style='font-size: 8pt;'>como adiestrar beagle</a>
+<a href='http://informeperros.com/tag/como-adiestrar-pitbull/' class='tag-link-31' title='1 tema' style='font-size: 8pt;'>como adiestrar pitbull</a>
+<a href='http://informeperros.com/tag/como-cuidar-affenpinscher/' class='tag-link-22' title='1 tema' style='font-size: 8pt;'>como cuidar affenpinscher</a>
+<a href='http://informeperros.com/tag/como-ensenar-a-hacer-caca-al-perro/' class='tag-link-71' title='2 temas' style='font-size: 13.25pt;'>como enseñar a hacer caca al perro</a>
+<a href='http://informeperros.com/tag/comprar-affenpinscher/' class='tag-link-23' title='1 tema' style='font-size: 8pt;'>comprar affenpinscher</a>
+<a href='http://informeperros.com/tag/cuidado-affenpincher/' class='tag-link-21' title='1 tema' style='font-size: 8pt;'>cuidado affenpincher</a>
+<a href='http://informeperros.com/tag/cuidado-beagles/' class='tag-link-39' title='1 tema' style='font-size: 8pt;'>cuidado beagles</a>
+<a href='http://informeperros.com/tag/educar-perro/' class='tag-link-78' title='4 temas' style='font-size: 19.6666666667pt;'>educar perro</a>
+<a href='http://informeperros.com/tag/ensenar-perro/' class='tag-link-95' title='3 temas' style='font-size: 16.75pt;'>enseñar perro</a>
+<a href='http://informeperros.com/tag/ensenar-perro-a-hacer-caca/' class='tag-link-89' title='2 temas' style='font-size: 13.25pt;'>enseñar perro a hacer caca</a>
+<a href='http://informeperros.com/tag/entreno-para-pitbull/' class='tag-link-32' title='1 tema' style='font-size: 8pt;'>entreno para pitbull</a>
+<a href='http://informeperros.com/tag/estudio-perros/' class='tag-link-340' title='2 temas' style='font-size: 13.25pt;'>estudio perros</a>
+<a href='http://informeperros.com/tag/fondo-de-pantalla-perro/' class='tag-link-171' title='2 temas' style='font-size: 13.25pt;'>fondo de pantalla perro</a>
+<a href='http://informeperros.com/tag/fondo-pantalla-perro/' class='tag-link-211' title='2 temas' style='font-size: 13.25pt;'>fondo pantalla perro</a>
+<a href='http://informeperros.com/tag/fotos-affenpinscher/' class='tag-link-17' title='1 tema' style='font-size: 8pt;'>fotos affenpinscher</a>
+<a href='http://informeperros.com/tag/fotos-beagle/' class='tag-link-40' title='1 tema' style='font-size: 8pt;'>fotos beagle</a>
+<a href='http://informeperros.com/tag/fotos-de-perros-2/' class='tag-link-46' title='2 temas' style='font-size: 13.25pt;'>fotos de perros</a>
+<a href='http://informeperros.com/tag/historia-beagle/' class='tag-link-38' title='1 tema' style='font-size: 8pt;'>historia beagle</a>
+<a href='http://informeperros.com/tag/historia-pitbull/' class='tag-link-34' title='1 tema' style='font-size: 8pt;'>historia pitbull</a>
+<a href='http://informeperros.com/tag/imagen-perro/' class='tag-link-173' title='2 temas' style='font-size: 13.25pt;'>imagen perro</a>
+<a href='http://informeperros.com/tag/informacion-affenpinscher/' class='tag-link-18' title='1 tema' style='font-size: 8pt;'>informacion affenpinscher</a>
+<a href='http://informeperros.com/tag/informacion-beagle/' class='tag-link-37' title='1 tema' style='font-size: 8pt;'>informacion beagle</a>
+<a href='http://informeperros.com/tag/pitbull/' class='tag-link-29' title='2 temas' style='font-size: 13.25pt;'>pitbull</a>
+<a href='http://informeperros.com/tag/pitbull-terrier-americano/' class='tag-link-28' title='1 tema' style='font-size: 8pt;'>pitbull terrier americano</a>
+<a href='http://informeperros.com/tag/razas-de-perros-2/' class='tag-link-24' title='1 tema' style='font-size: 8pt;'>razas de perros</a>
+<a href='http://informeperros.com/tag/seguros-para-perros-2/' class='tag-link-160' title='2 temas' style='font-size: 13.25pt;'>seguros para perros</a>
+<a href='http://informeperros.com/tag/temperamento-pitbull/' class='tag-link-35' title='1 tema' style='font-size: 8pt;'>temperamento pitbull</a>
+<a href='http://informeperros.com/tag/videos-beagle/' class='tag-link-42' title='1 tema' style='font-size: 8pt;'>videos beagle</a></div>
+</div></div><div id="archives-2" class="widget widget_archive"><h3>Archivos</h3><div class="padder">		<ul>
+	<li><a href='http://informeperros.com/2015/05/'>mayo 2015</a></li>
+	<li><a href='http://informeperros.com/2012/07/'>julio 2012</a></li>
+	<li><a href='http://informeperros.com/2012/06/'>junio 2012</a></li>
+	<li><a href='http://informeperros.com/2012/05/'>mayo 2012</a></li>
+	<li><a href='http://informeperros.com/2012/04/'>abril 2012</a></li>
+	<li><a href='http://informeperros.com/2012/03/'>marzo 2012</a></li>
+	<li><a href='http://informeperros.com/2012/02/'>febrero 2012</a></li>
+		</ul>
+</div></div><div id="search-2" class="widget widget_search"><h3>Buscar en la Web</h3><div class="padder"><div class="search">
+	<form method="get" id="searchform" action="http://informeperros.com/">
+		<fieldset>
+			<span class="search-text"><i></i>
+ 				<input type="text" onblur="if (this.value == '') {this.value = 'Busca...';}" onfocus="if (this.value == 'Busca...') {this.value = '';}" value="Busca..." name="s" id="s" />
+			</span>
+			<span></span><input type="submit" id="searchsubmit" value="Buscar" />
+		</fieldset>
+	</form>
+</div>
+</div></div>	
+		
+</div> <!-- end sidebar -->
+	<div class="singlepost">
+		<div class="rounded">
+		<h3>Error 404 - No se ha encontrado nada</h3>
+		
+						
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+		  
+ 
+	</div> 
+	</div> 
+ 
+<div class="clear"></div>
+
+	<div class="pre_footer">
+		
+		<a href="http://informeperros.com/">
+							<img src="http://informeperros.com/wp-content/uploads/2012/02/Logo-FOOTER-Informe-Perros.png" alt="Informe Perros" />
+					</a>
+		
+		<span><a href="#top" title="top">&nbsp;</a></span>
+		
+	</div>
+	
+ 
+</div> <!-- /#page-wrap -->
+
+
+<div id="footer_wrap">
+	<div id="footer">
+
+ 		<div id="text-5" class="widget widget_text"><h3>Sobre Informe Perros</h3>			<div class="textwidget"><p>Informe Perros es una agradable página Web dónde puedes encontrar toda la información sobre todas las <b>razas de perros</b>, incluyendo las razas de perros más exóticas y menos vistas.</p>
+
+<p>Además, mostramos consejos de cómo cuidar a un perro y como <b>adiestrar a un perro</b>, ya sea <b>como enseñar a hacer sus necesidades</b> o como enseñarle a pasear.
+También publicamos fotos de perros, vídeos de perros y noticias interesantes.</p>
+
+<p>En Informe Perros queremos crear una amistosa comunidad, dónde podrás publicar fotos de tus perros y contarnos tus experiencias.</p>
+
+<p>Muchas gracias por la visita, y esperamos que puedas encontrar toda la información sobre tu perro.</p></div>
+		</div><div id="tag_cloud-3" class="widget widget_tag_cloud"><h3>Tags</h3><div class="tagcloud"><a href='http://informeperros.com/tag/adiestramiento-activo/' class='tag-link-85' title='2 temas' style='font-size: 13.25pt;'>adiestramiento activo</a>
+<a href='http://informeperros.com/tag/adiestramiento-con-jaula/' class='tag-link-87' title='2 temas' style='font-size: 13.25pt;'>adiestramiento con jaula</a>
+<a href='http://informeperros.com/tag/adiestramiento-con-papel/' class='tag-link-74' title='2 temas' style='font-size: 13.25pt;'>adiestramiento con papel</a>
+<a href='http://informeperros.com/tag/adiestrar-perro/' class='tag-link-65' title='3 temas' style='font-size: 16.75pt;'>adiestrar perro</a>
+<a href='http://informeperros.com/tag/adoptar-perro/' class='tag-link-250' title='5 temas' style='font-size: 22pt;'>adoptar perro</a>
+<a href='http://informeperros.com/tag/adoptar-perro-cataluna/' class='tag-link-275' title='3 temas' style='font-size: 16.75pt;'>adoptar perro cataluña</a>
+<a href='http://informeperros.com/tag/adoptar-perro-en-cataluna/' class='tag-link-184' title='3 temas' style='font-size: 16.75pt;'>adoptar perro en cataluña</a>
+<a href='http://informeperros.com/tag/adoptar-perro-en-mataro/' class='tag-link-317' title='3 temas' style='font-size: 16.75pt;'>adoptar perro en mataró</a>
+<a href='http://informeperros.com/tag/adoptar-perro-mataro/' class='tag-link-273' title='2 temas' style='font-size: 13.25pt;'>adoptar perro mataro</a>
+<a href='http://informeperros.com/tag/affenpincher-compania/' class='tag-link-20' title='1 tema' style='font-size: 8pt;'>affenpincher compañia</a>
+<a href='http://informeperros.com/tag/affenpinscher/' class='tag-link-16' title='1 tema' style='font-size: 8pt;'>affenpinscher</a>
+<a href='http://informeperros.com/tag/akita/' class='tag-link-233' title='2 temas' style='font-size: 13.25pt;'>akita</a>
+<a href='http://informeperros.com/tag/beagle/' class='tag-link-41' title='1 tema' style='font-size: 8pt;'>beagle</a>
+<a href='http://informeperros.com/tag/caracter-affenpinscher/' class='tag-link-19' title='1 tema' style='font-size: 8pt;'>caracter affenpinscher</a>
+<a href='http://informeperros.com/tag/caracter-beagle/' class='tag-link-43' title='1 tema' style='font-size: 8pt;'>caracter beagle</a>
+<a href='http://informeperros.com/tag/caracteristicas-pitbull/' class='tag-link-30' title='1 tema' style='font-size: 8pt;'>caracteristicas pitbull</a>
+<a href='http://informeperros.com/tag/color-pitbull/' class='tag-link-33' title='1 tema' style='font-size: 8pt;'>color pitbull</a>
+<a href='http://informeperros.com/tag/como-adiestrar-beagle/' class='tag-link-44' title='1 tema' style='font-size: 8pt;'>como adiestrar beagle</a>
+<a href='http://informeperros.com/tag/como-adiestrar-pitbull/' class='tag-link-31' title='1 tema' style='font-size: 8pt;'>como adiestrar pitbull</a>
+<a href='http://informeperros.com/tag/como-cuidar-affenpinscher/' class='tag-link-22' title='1 tema' style='font-size: 8pt;'>como cuidar affenpinscher</a>
+<a href='http://informeperros.com/tag/como-ensenar-a-hacer-caca-al-perro/' class='tag-link-71' title='2 temas' style='font-size: 13.25pt;'>como enseñar a hacer caca al perro</a>
+<a href='http://informeperros.com/tag/comprar-affenpinscher/' class='tag-link-23' title='1 tema' style='font-size: 8pt;'>comprar affenpinscher</a>
+<a href='http://informeperros.com/tag/cuidado-affenpincher/' class='tag-link-21' title='1 tema' style='font-size: 8pt;'>cuidado affenpincher</a>
+<a href='http://informeperros.com/tag/cuidado-beagles/' class='tag-link-39' title='1 tema' style='font-size: 8pt;'>cuidado beagles</a>
+<a href='http://informeperros.com/tag/educar-perro/' class='tag-link-78' title='4 temas' style='font-size: 19.6666666667pt;'>educar perro</a>
+<a href='http://informeperros.com/tag/ensenar-perro/' class='tag-link-95' title='3 temas' style='font-size: 16.75pt;'>enseñar perro</a>
+<a href='http://informeperros.com/tag/ensenar-perro-a-hacer-caca/' class='tag-link-89' title='2 temas' style='font-size: 13.25pt;'>enseñar perro a hacer caca</a>
+<a href='http://informeperros.com/tag/entreno-para-pitbull/' class='tag-link-32' title='1 tema' style='font-size: 8pt;'>entreno para pitbull</a>
+<a href='http://informeperros.com/tag/estudio-perros/' class='tag-link-340' title='2 temas' style='font-size: 13.25pt;'>estudio perros</a>
+<a href='http://informeperros.com/tag/fondo-de-pantalla-perro/' class='tag-link-171' title='2 temas' style='font-size: 13.25pt;'>fondo de pantalla perro</a>
+<a href='http://informeperros.com/tag/fondo-pantalla-perro/' class='tag-link-211' title='2 temas' style='font-size: 13.25pt;'>fondo pantalla perro</a>
+<a href='http://informeperros.com/tag/fotos-affenpinscher/' class='tag-link-17' title='1 tema' style='font-size: 8pt;'>fotos affenpinscher</a>
+<a href='http://informeperros.com/tag/fotos-beagle/' class='tag-link-40' title='1 tema' style='font-size: 8pt;'>fotos beagle</a>
+<a href='http://informeperros.com/tag/fotos-de-perros-2/' class='tag-link-46' title='2 temas' style='font-size: 13.25pt;'>fotos de perros</a>
+<a href='http://informeperros.com/tag/historia-beagle/' class='tag-link-38' title='1 tema' style='font-size: 8pt;'>historia beagle</a>
+<a href='http://informeperros.com/tag/historia-pitbull/' class='tag-link-34' title='1 tema' style='font-size: 8pt;'>historia pitbull</a>
+<a href='http://informeperros.com/tag/imagen-perro/' class='tag-link-173' title='2 temas' style='font-size: 13.25pt;'>imagen perro</a>
+<a href='http://informeperros.com/tag/informacion-affenpinscher/' class='tag-link-18' title='1 tema' style='font-size: 8pt;'>informacion affenpinscher</a>
+<a href='http://informeperros.com/tag/informacion-beagle/' class='tag-link-37' title='1 tema' style='font-size: 8pt;'>informacion beagle</a>
+<a href='http://informeperros.com/tag/pitbull/' class='tag-link-29' title='2 temas' style='font-size: 13.25pt;'>pitbull</a>
+<a href='http://informeperros.com/tag/pitbull-terrier-americano/' class='tag-link-28' title='1 tema' style='font-size: 8pt;'>pitbull terrier americano</a>
+<a href='http://informeperros.com/tag/razas-de-perros-2/' class='tag-link-24' title='1 tema' style='font-size: 8pt;'>razas de perros</a>
+<a href='http://informeperros.com/tag/seguros-para-perros-2/' class='tag-link-160' title='2 temas' style='font-size: 13.25pt;'>seguros para perros</a>
+<a href='http://informeperros.com/tag/temperamento-pitbull/' class='tag-link-35' title='1 tema' style='font-size: 8pt;'>temperamento pitbull</a>
+<a href='http://informeperros.com/tag/videos-beagle/' class='tag-link-42' title='1 tema' style='font-size: 8pt;'>videos beagle</a></div>
+</div>
+		
+	<div class="clear"></div>
+ 	</div> <!-- /#footer -->
+ 	
+ 	<div id="copyright">
+		
+		&copy; Copyright 2016 &mdash; <a href="http://informeperros.com/" class="on">Informe Perros</a>. Todos los derechos reservados		
+	
+	</div>
+
+</div> <!-- /#footer_wrap -->
+ 
+ 
+ 
+
+<script type="text/javascript">
+function mycarousel_initCallback(carousel)
+{ 
+};
+
+jQuery(document).ready(function() {
+    jQuery('#carousel').jcarousel({
+		wrap: 'last',
+        visible: 3,
+        scroll: 1,
+		wrap: 'circular',
+        initCallback: mycarousel_initCallback
+    });
+});
+</script>
+ 
+<script type="text/javascript">
+/* <![CDATA[ */
+
+(function($) {
+$(".tabs").tabs(".slide li", {event:'mouseover'});
+ 
+  var scrollableElements = $(".scrollable li");
+ if (scrollableElements.size() <= 4) {
+  $("a.browse").addClass("disabled");
+ }
+ $(".scrollable").scrollable({
+  "size": 4,
+  "keyboard": false,
+  "vertical":true
+ });
+ scrollableElements.click(function() {
+  $("#panes .active").removeClass("active");
+  $("#panes ." + $(this).attr("class").split(' ').slice(0, 1)).addClass("active");
+ }).filter(":first").click();
+})(jQuery);  
+/* ]]> */
+
+</script>
+ 
+<!-- Lightbox Plus Colorbox v2.7.2/1.5.9 - 2013.01.24 - Message: 0-->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({speed:350,initialWidth:"300",initialHeight:"100",opacity:0.8,loop:false,scrolling:false,escKey:false,arrowKey:false,top:false,right:false,bottom:false,left:false});
+});
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"http:\/\/informeperros.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://informeperros.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.69'></script>
+<script type='text/javascript' src='http://informeperros.com/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9'></script>
+</body>
+</html>

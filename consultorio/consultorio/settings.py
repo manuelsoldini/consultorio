@@ -39,7 +39,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'fichas',
+    'related_admin',
 ]
+
+MEDIA_ROOT = '/media/'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
