@@ -20,8 +20,7 @@ class AdminAnimal(RelatedFieldAdmin):
     ]
 
 admin.site.register(Animal, AdminAnimal)
-admin.site.register(Entrada, AdminFecha)
-admin.site.register(Vacuna, AdminFecha)
 
+admin.site.register(MetaVacuna)
 admin.site.register(Raza)
 admin.site.register(Especie)
