@@ -10,7 +10,7 @@ class ModelWithImage(models.Model):
     nombre = models.CharField(max_length=30)
 
     def image_tag(self):
-        return mark_safe('<img src="/directory/%s" width="150" height="150" />' % (self.imagen))
+        return mark_safe('<img src="/media/%s" width="150" height="150" />' % (self.imagen))
 
     image_tag.short_description = 'Image'
 
